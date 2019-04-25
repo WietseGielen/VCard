@@ -1,1 +1,1 @@
-[Go to VCard](https://wietsegielen.github.io/VCard/Vcard.html 'Go to VCard')
+[Go to VCard](https://wietsegielen.github.io/VCard/4-vcard.html 'Go to VCard')
