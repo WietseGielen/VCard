@@ -164,4 +164,21 @@ progress[value]::-webkit-progress-value {
     border-radius: 15px;
 }
 
+/* Mobile phones */
+
+@media only screen and (max-width:300px) {
+
+    [class*='col-'] {
+        width: 100%;
+    }
+
+/* Tablets */
+
+@media only screen and (min-width:300px) and (max-width:768px) {
+    .col-1 {width: 100%;}
+    .col-2 {width: 100%;}
+    .col-3 {width: 49.5%;}
+    .col-4 {width: 100%;}
+
+
 
